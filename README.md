@@ -10,3 +10,6 @@ A simple text-based RPG built with HTML, CSS, and JavaScript.
 ## How to Play
 1. Clone the repo
 2. Open `index.html` in your browser
+
+## Demo
+  https://vikki-111.github.io/Dragon-Repeller/ 
